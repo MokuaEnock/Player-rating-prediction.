@@ -2,12 +2,6 @@
 
 # Player rating prediction
 
-## Project Description
-
-Football players' prediction using data obtained from FIFA 22 EA sports electronic game using ridge regression.
-
-<h2 id="table">Table of Contents</h2>
-
 <ol>
 <li> <a href="#">Table of Contents</a></li>
 <li> <a href="#config">Configuring the Model</a></li>
@@ -19,6 +13,11 @@ Football players' prediction using data obtained from FIFA 22 EA sports electron
 <li> <a href="#tests">Tests</a></li>
 
 </ol>
+## Project Description
+
+Football players' prediction using data obtained from FIFA 22 EA sports electronic game using ridge regression.
+
+<h2 id="table">Table of Contents</h2>
 
 <h2 id="config">Configuring the Model</h2>
 
