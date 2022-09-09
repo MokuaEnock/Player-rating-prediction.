@@ -11,12 +11,12 @@ Football players' prediction using data obtained from FIFA 22 EA sports electron
 <ol>
 <li> <a href="#">Table of Contents</a></li>
 <li> <a href="#config">Configuring the Model</a></li>
-<li> <a href="#">Using the Model</a></li>
-<li> <a href="#">Credits</a></li>
-<li> <a href="#">License</a></li>
-<li> <a href="#">Badges</a></li>
-<li> <a href="#">Contributing</a></li>
-<li> <a href="#">Tests</a></li>
+<li> <a href="#using">Using the Model</a></li>
+<li> <a href="#credits">Credits</a></li>
+<li> <a href="#license">License</a></li>
+<li> <a href="#badges">Badges</a></li>
+<li> <a href="#contributing">Contributing</a></li>
+<li> <a href="#tests">Tests</a></li>
 
 </ol>
 
@@ -32,4 +32,4 @@ Football players' prediction using data obtained from FIFA 22 EA sports electron
 
 <h2 id="contributing">Contributing</h2>
 
-<h2 id="Tests">Tests</h2>
+<h2 id="tests">Tests</h2>
